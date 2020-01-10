@@ -1,4 +1,8 @@
 This file is stored in github.
 
 
-Using non-ascii characters like ¢ £ ¤ ¥ 	§ © ¶
+Using non-ascii characters like ¢ £ ¤ ¥ 	§ © ¶ ·
+·
+·
+·
+
